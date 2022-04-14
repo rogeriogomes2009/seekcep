@@ -1,0 +1,10 @@
+.list-group-item span {
+  display: block;
+  width: 100%;
+}
+body {
+  background-image: url('../../public/back.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
